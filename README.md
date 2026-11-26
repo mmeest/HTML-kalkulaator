@@ -4,11 +4,11 @@
   </p>
 </div>
 
-## Minimaalne HTML-kalkulaator
+# Minimaalne HTML-kalkulaator (168 sümbolit)
 
 Ülimalt kompaktne kalkulaator, mis on loodud puhta HTML-i ja JavaScriptiga. Kõik kalkulaatori nupud genereeritakse automaatselt lihtsa for...of tsükli abil ning nende vajutusi töötleb üksainus sündmusekäsitleja.
 
-# Omadused:
+## Omadused:
 
 * Põhitehted: liitmine, lahutamine, korrutamine ja jagamine.
 * Numbrinupud (0–9).
