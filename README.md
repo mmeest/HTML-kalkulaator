@@ -1,8 +1,14 @@
-##Minimaalne HTML-kalkulaator
+<div>
+  <p align="center">
+    <img src="screen.png">
+  </p>
+</div>
+
+## Minimaalne HTML-kalkulaator
 
 Ülimalt kompaktne kalkulaator, mis on loodud puhta HTML-i ja JavaScriptiga. Kõik kalkulaatori nupud genereeritakse automaatselt lihtsa for...of tsükli abil ning nende vajutusi töötleb üksainus sündmusekäsitleja.
 
-#Omadused:
+# Omadused:
 
 * Põhitehted: liitmine, lahutamine, korrutamine ja jagamine.
 * Numbrinupud (0–9).
